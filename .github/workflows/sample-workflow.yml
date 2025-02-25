@@ -1,5 +1,5 @@
 name: First interaction
-  uses: actions/first-interaction@v1.3.0
+  uses: actions/.github/workflows/sample-workflow.yml
   with:
     # Token for the repository. Can be passed in using {{ secrets.GITHUB_TOKEN }}
     repo-token: 
