@@ -1,4 +1,4 @@
-            - name: Simple Issue Labeler
+name: Simple Issue Labeler
   # You may pin to the exact commit or the version.
   # uses: andymckay/labeler@e6c4322d0397f3240f0e7e30a33b5c5df2d39e90
   uses: andymckay/labeler@1.0.4
